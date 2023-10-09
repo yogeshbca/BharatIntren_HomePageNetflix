@@ -31,6 +31,6 @@ To view the project, simply open the `index.html` file in a web browser.
 ## Contact Information
 
 - **Name**: Yogesh T
-- **Email**: yogesh@example.com
+- **Email**: yogiyogesht8131@gmail.com
 - **LinkedIn**: [Yogesh T LinkedIn Profile](https://www.linkedin.com/in/yogesh-t-prp)
 - **GitHub**: [Yogesh T GitHub Profile](https://github.com/yogeshbca/)
